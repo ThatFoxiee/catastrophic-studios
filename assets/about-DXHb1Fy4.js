@@ -1,1 +1,0 @@
-import{d as t,b as a,o as s,e as o,f as n,t as p,F as r,a as c}from"./site_bar-DMlh7GhR.js";const m=t({__name:"App",setup(i){return(l,e)=>(s(),a(r,null,[o(p),e[0]||(e[0]=n("h1",{class:"text-white font-bold"},"this is the about site",-1))],64))}});c(m).mount("#app");
